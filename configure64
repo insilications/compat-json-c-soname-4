@@ -1,0 +1,4 @@
+--enable-shared
+--enable-static
+--enable-threading
+--enable-rdrand
